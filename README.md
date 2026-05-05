@@ -1,3 +1,4 @@
 # Jumeau-Num-rique-AquaTwin-Drip-pour-l-irrigation-goutte-goutte.
 Le défi de l'irrigation: de la décision empirique à la gestion de précision. En Afrique subsaharienne, et notamment au Bénin, les décisions d'irrigation reposent souvent sur l'expérience, menant à une utilisation sous-optimale de l'eau. Cette situation est aggravée par une forte variabilité climatique et des sols souvent sableux(ferrallitiques, lixisols) à faible capacité de rétention.
 L'irrigation goutte-à-goutte est une solution, mais son efficacité dépend de la dynamique du 'bulbe d'humectation', une zone d'humidité localisée que les méthodes traditionnelles ne peuvent pas gérer finement. Il est nécessaire de disposer d'un outil d'aide à la décision explicable, robuste et sobre en données.
+Notre vision est un Jumeau Numérique Agricole: un cadre qui hybride la physique des processus(sol), la connaissance agronomique(plante) et les données disponibles pour créer un modèle explicable et utile.
